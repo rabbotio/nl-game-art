@@ -1,2 +1,2 @@
-# sheepsheep-art
-Contain sheepsheep art and assets
+# nl-game-art
+Noob Learning Game art and assets
